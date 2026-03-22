@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "d1-template",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "5b5dc814-8e01-4481-a9b1-08825a9f2e51",
+			"database_name": "voicebox_db"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
